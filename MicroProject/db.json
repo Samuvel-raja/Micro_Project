@@ -1,0 +1,47 @@
+{
+  "Invoices": [
+    {
+      "id": "01",
+      "invoiceName": "stationary",
+      "customerName": "sam",
+      "customerMail": "sma@gmail.com",
+      "customerLoc": "chennai",
+      "customerMob": "9289202002",
+      "productName": "soap",
+      "productQuantity": "3",
+      "productPrice": "120"
+    },
+    {
+      "id": "1",
+      "customerName": "cgx",
+      "customerMob": 43,
+      "customerLoc": "jgf",
+      "customerMail": "fsb@rth.vom",
+      "productName": "bd",
+      "productQuantity": 579,
+      "productPrice": 965
+    },
+    {
+      "id": 4,
+      "invoiceDate": "2024-08-23",
+      "customerName": "samie",
+      "customerMob": 7683682929,
+      "customerLoc": "Bangalore",
+      "customerMail": "samie072@gmail.com",
+      "productName": "Perfume",
+      "productQuantity": 2,
+      "productPrice": 30
+    },
+    {
+      "id": 5,
+      "invoiceDate": "2024-08-23",
+      "customerName": "virat",
+      "customerMob": 635268299,
+      "customerLoc": "Bangalore",
+      "customerMail": "virat@gmail.com",
+      "productName": "Bat",
+      "productQuantity": 2,
+      "productPrice": 14000
+    }
+  ]
+}
